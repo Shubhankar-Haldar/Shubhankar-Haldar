@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhankar-haldar&show_icons=true&locale=en&layout=compact" alt="shubhankar-haldar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhankar-haldar&show_icons=true&locale=en" alt="shubhankar-haldar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhankar-haldar&" alt="shubhankar-haldar" /></p>
